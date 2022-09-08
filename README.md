@@ -1,1 +1,1 @@
-# gerro
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD) https://s15.fastream.to:443/hls2/02/00036/p9ogom1vcom2_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=IGO3PL3FrdBUuYjzB1WQdExz3MSEQOSWLpENjQsiftE&s=1662602892&e=43200&f=181991&i=0.0&sp=0
